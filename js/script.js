@@ -29,7 +29,7 @@ $(document).ready(function() {
 		return false;
 	}
 
-	var domain = "http://algorithm.test";
+	var domain = "https://shielded-everglades-47676.herokuapp.com";
 
 	$('#sub').click(function(event) {
 		event.preventDefault();

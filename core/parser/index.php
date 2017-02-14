@@ -6,7 +6,7 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	<script type="text/javascript">
 	//$(document).ready(function() {
-		var domain = "http://algorithm.test";
+		var domain = "https://shielded-everglades-47676.herokuapp.com";
 		$('#sub').click(function(event) {
 			event.preventDefault();
 			$.ajax({
